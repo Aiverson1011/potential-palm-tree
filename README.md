@@ -13,3 +13,15 @@
 ## Favorite Ice Cream
 - Vanilla Ice Cream
 - Strawberry Ice Cream
+
+
+## Some Code
+
+```
+string name = "amanda";
+
+if(name == "amanda")
+{
+   return true;
+}
+```

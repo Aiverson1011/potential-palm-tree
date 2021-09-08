@@ -1,5 +1,4 @@
-# potential-palm-tree
-Test Repo for Code 102n57
+# Welcome to my Potential Palm Tree Website
 
 ## About Me
 - I love Cats
@@ -10,3 +9,7 @@ Test Repo for Code 102n57
 1. Josie is Cat #1
 2. Belle is Cat #2
 3. They are sisters
+
+## Favorite Ice Cream
+- Vanilla Ice Cream
+- Strawberry Ice Cream
